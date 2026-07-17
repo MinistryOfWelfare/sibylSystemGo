@@ -12,6 +12,4 @@ require (
 	github.com/AnimeKaizoku/ssg v1.1.20
 )
 
-require (
-	golang.org/x/text v0.3.7 // indirect
-)
+require golang.org/x/text v0.3.8 // indirect
