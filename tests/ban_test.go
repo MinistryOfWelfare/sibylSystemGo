@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"testing"
 
-	sibylSystemGo "github.com/ALiwoto/sibylSystemGo/sibylSystem"
+	sibylSystemGo "github.com/MinistryOfWelfare/sibylSystemGo/sibylSystem"
 )
 
 func TestBanUser01(t *testing.T) {
