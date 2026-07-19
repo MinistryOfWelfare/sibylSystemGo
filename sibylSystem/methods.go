@@ -16,7 +16,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/ALiwoto/mdparser/mdparser"
+	"github.com/AnimeKaizoku/mdparser/mdparser"
 	ws "github.com/AnimeKaizoku/ssg/ssg"
 )
 
